@@ -10,7 +10,7 @@
 
 
 
-**##QuantumRandomness** 
+**QuantumRandomness** 
 is an experimental Python engine that simulates quantum-like randomness using evolving sub-engines, 
 entropy sources, and delayed state resolution. Inspired by concepts of superposition, entanglement, and measurement collapse,
 it produces values that only finalize when “observed” (pressing Enter).
@@ -31,7 +31,7 @@ it produces values that only finalize when “observed” (pressing Enter).
 
 --------------------------------------------------------------------------------------------------------------------
 
-**##Disclaimer**
+**Disclaimer**
 
 **This project is not cryptographically secure and should not be used for security, gambling, or cryptographic applications.**
 **It is an educational/creative exploration of randomness inspired by quantum mechanics, chaos theory, and system entropy.**
